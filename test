@@ -1,2 +1,0 @@
-setwd(getwd())
-head(CO2)
